@@ -1,5 +1,5 @@
 # Project-Euler
-# 🧠 Project Euler Solutions by Nikita
+## Project Euler Solutions 
 
 Welcome to my personal collection of solutions to [Project Euler](https://projecteuler.net/) problems — a journey through mathematical reasoning, algorithm design, and elegant Python code.
 
